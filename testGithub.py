@@ -1,0 +1,1 @@
+print("Hi I am an student and prepare for githoub.")
